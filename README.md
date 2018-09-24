@@ -61,10 +61,4 @@ defaults, and so on. Tweak this script, and occasionally run `dot` from
 time to time to keep your environment fresh and up-to-date. You can find
 this script in `bin/`.
 
-## bugs
-
-I want this to work for everyone; that means when you clone it down it should
-work for you even though you may not have `rbenv` installed, for example. That
-said, I do use this as *my* dotfiles, so there's a good chance I may break
-something if I forget to make a check for a dependency.
 
