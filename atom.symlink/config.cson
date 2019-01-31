@@ -40,7 +40,7 @@
       "metrics"
       "react"
       "linter-rubocop"
-      "tree-view"
+      "wrap-guide"
     ]
     followSymlinks: false
     hideGitIgnoredFiles: true
@@ -52,6 +52,7 @@
       "tmp"
       "vendor"
     ]
+    projectHome: "/Users/wwanjira/workspace"
     telemetryConsent: "no"
     themes: [
       "one-light-ui"
@@ -59,6 +60,7 @@
     ]
   editor:
     fontFamily: "Menlo"
+    fontSize: 12
     invisibles: {}
     showIndentGuide: true
     softWrapAtPreferredLineLength: true
