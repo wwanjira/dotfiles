@@ -40,7 +40,7 @@
       "metrics"
       "react"
       "linter-rubocop"
-      "tree-view"
+      "wrap-guide"
     ]
     followSymlinks: false
     hideGitIgnoredFiles: true
