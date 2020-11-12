@@ -33,3 +33,6 @@
         default = simple
 [diff]
 	submodule = log
+[user]
+	name = Wilber Wanjira
+	email = wwanjira@amazon.com
