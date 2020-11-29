@@ -70,3 +70,6 @@ precmd() {
   title "zsh" "%m" "%55<...<%~"
   set_prompt
 }
+
+# export STARSHIP_CONFIG=~/.starship
+# eval "$(starship init zsh)"
